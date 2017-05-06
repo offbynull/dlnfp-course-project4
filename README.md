@@ -1,2 +1,3 @@
-# dlnfp-course-project4
-DLNFP Project 4 - Seq2seq language translation
+# Deep Learning Nanodegree Foundations -- Project 4
+
+Translate French to English using a seq2seq RNNs.
